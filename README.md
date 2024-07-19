@@ -1,1 +1,3 @@
 # Catch-Alphabets
+<p>
+Catch Alphabets offers a nostalgic and challenging experience reminiscent of classic arcade games. Its reliance on 16-bit assembly language for the Intel 8088 showcases the creativity and technical skill required to develop games in the early days of computer gaming. The game's simple yet addictive gameplay mechanics ensure hours of entertainment for players aiming to achieve the highest score possible.</p>
